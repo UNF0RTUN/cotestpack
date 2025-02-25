@@ -3,7 +3,7 @@ import java.lang.*;
 import java.io.*;
 
 // The main method must be in a class named "Main".
-class Main {
+class SprlArray_01 {
     public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
